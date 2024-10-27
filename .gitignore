@@ -1,0 +1,10 @@
+__pycache__
+best_ce_e3.pth
+best_focal.pth
+best_focal_e3.pth
+best_jaccard.pth
+best_pretrain_deeplabv_50.pth
+best_without.pth
+sentinel2_resnet50_mi_ms-da5413d2.pth
+test_output*
+.ipynb_checkpoints/
